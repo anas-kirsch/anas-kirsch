@@ -60,6 +60,10 @@
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:512/0*ioDeujW3euLCfXew.png" alt="PostgreSQL" width="40" height="40" />
+</a>
+
 </p>
 
 
