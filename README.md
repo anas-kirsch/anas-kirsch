@@ -6,7 +6,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=anas-kirsch" alt="anas-kirsch" />
   </a> 
 </p>
-
 <h3 align="left">Languages and Tools I'm Learning:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -48,6 +47,21 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/sql-database-generic.svg" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="supabase" width="40" height="40"/>
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
+  </a>
+  <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/PhpMyAdmin_logo.png" alt="phpmyadmin" width="40" height="40"/>
+  </a>
 </p>
 
 
