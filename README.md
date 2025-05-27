@@ -6,6 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=anas-kirsch" alt="anas-kirsch" />
   </a> 
 </p>
+
 <h3 align="left">Languages and Tools I'm Learning:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -60,6 +61,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
