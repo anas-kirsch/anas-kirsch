@@ -1,18 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=anas-kirsch)
 
 ## Hi there 👋
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anas-kirsch" alt="anas-kirsch" />
-  </a> 
-</p>
-
-## Docker Hub
-
-Vous pouvez retrouver toutes mes images Docker sur Docker Hub :  
-https://hub.docker.com/repositories/anaskrh
-
-
 
 <h3 align="left">Languages and Tools I'm Learning:</h3>
 <p align="left"> 
@@ -68,6 +56,20 @@ https://hub.docker.com/repositories/anaskrh
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
   </a>
 </p>
+
+## Docker Hub
+
+Vous pouvez retrouver toutes mes images Docker sur Docker Hub :  
+https://hub.docker.com/repositories/anaskrh
+
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anas-kirsch" alt="anas-kirsch" />
+  </a> 
+</p>
+
+
 
 
 
